@@ -1,0 +1,2070 @@
+[
+  {
+    "name": "Verify G+ - General Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-general-ability/",
+    "test_type": "C",
+    "description": "Measures general mental ability (G) and effectively measures candidates' problem-solving and critical reasoning capabilities. Includes numerical, verbal, and inductive reasoning subtests. 36-minute time limit. Available in 40+ languages. Suitable for all job levels.",
+    "skills": [
+      "problem-solving",
+      "critical reasoning",
+      "numerical reasoning",
+      "verbal reasoning",
+      "inductive reasoning",
+      "general mental ability",
+      "analytical thinking"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate"
+    ],
+    "duration": "36 minutes",
+    "categories": [
+      "cognitive",
+      "general ability"
+    ]
+  },
+  {
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-reasoning/",
+    "test_type": "C",
+    "description": "Measures candidates' ability to work with numbers and use appropriate mathematics in different situations. Includes solving word problems, performing numerical calculations, and interpreting charts and graphs. 18-minute time limit.",
+    "skills": [
+      "numerical reasoning",
+      "data interpretation",
+      "mathematical ability",
+      "quantitative analysis",
+      "financial acumen"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate"
+    ],
+    "duration": "18 minutes",
+    "categories": [
+      "cognitive",
+      "numerical"
+    ]
+  },
+  {
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-reasoning/",
+    "test_type": "C",
+    "description": "Measures candidates' ability to understand written information and evaluate arguments. Assesses comprehension of written material and ability to draw logical conclusions from passages. 19-minute time limit.",
+    "skills": [
+      "verbal reasoning",
+      "reading comprehension",
+      "critical thinking",
+      "written communication",
+      "argument evaluation"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate"
+    ],
+    "duration": "19 minutes",
+    "categories": [
+      "cognitive",
+      "verbal"
+    ]
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning/",
+    "test_type": "C",
+    "description": "Measures candidates' ability to draw inferences from and understand relationships between various concepts. Tasks include working out patterns in sets of images and identifying the correct next image. 25-minute time limit.",
+    "skills": [
+      "inductive reasoning",
+      "pattern recognition",
+      "abstract thinking",
+      "logical reasoning",
+      "conceptual thinking"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "cognitive",
+      "inductive"
+    ]
+  },
+  {
+    "name": "Verify Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+    "test_type": "C",
+    "description": "Measures candidates' ability to draw logical conclusions and complete scenarios based on information provided. Tasks include reading statements and determining which options cannot be true or must be true. 20-minute time limit.",
+    "skills": [
+      "deductive reasoning",
+      "logical thinking",
+      "rule application",
+      "critical reasoning",
+      "structured thinking"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate"
+    ],
+    "duration": "20 minutes",
+    "categories": [
+      "cognitive",
+      "deductive"
+    ]
+  },
+  {
+    "name": "Verify Checking",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-checking/",
+    "test_type": "C",
+    "description": "Assesses attention to detail, accuracy, and concentration. Measures ability to identify errors and inconsistencies in data, text, or visual information quickly and accurately. 5-minute time limit.",
+    "skills": [
+      "attention to detail",
+      "accuracy",
+      "concentration",
+      "error detection",
+      "quality control",
+      "visual processing"
+    ],
+    "job_levels": [
+      "entry",
+      "mid"
+    ],
+    "duration": "5 minutes",
+    "categories": [
+      "cognitive",
+      "checking"
+    ]
+  },
+  {
+    "name": "Verify Mechanical Comprehension",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-mechanical-comprehension/",
+    "test_type": "C",
+    "description": "Measures understanding of mechanical principles and physical concepts. Assesses ability to understand how mechanical systems work, including gears, pulleys, levers, and basic physics. 15-minute time limit.",
+    "skills": [
+      "mechanical reasoning",
+      "physics",
+      "spatial reasoning",
+      "technical understanding",
+      "engineering aptitude"
+    ],
+    "job_levels": [
+      "entry",
+      "mid"
+    ],
+    "duration": "15 minutes",
+    "categories": [
+      "cognitive",
+      "mechanical"
+    ]
+  },
+  {
+    "name": "Verify Spatial Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-spatial-reasoning/",
+    "test_type": "C",
+    "description": "Measures ability to visualize and manipulate objects in space. Assesses spatial awareness, mental rotation, and understanding of 2D and 3D relationships. 15-minute time limit.",
+    "skills": [
+      "spatial reasoning",
+      "visualization",
+      "mental rotation",
+      "technical design",
+      "engineering aptitude"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "15 minutes",
+    "categories": [
+      "cognitive",
+      "spatial"
+    ]
+  },
+  {
+    "name": "Verify Calculation Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-calculation-test/",
+    "test_type": "C",
+    "description": "Measures speed and accuracy of basic mathematical calculations. Focuses on arithmetic operations, percentages, and simple numerical transformations under time pressure. 8-minute time limit.",
+    "skills": [
+      "calculation speed",
+      "arithmetic",
+      "numerical accuracy",
+      "basic math",
+      "data processing"
+    ],
+    "job_levels": [
+      "entry",
+      "mid"
+    ],
+    "duration": "8 minutes",
+    "categories": [
+      "cognitive",
+      "numerical"
+    ]
+  },
+  {
+    "name": "Critical Thinking Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/critical-thinking-assessment/",
+    "test_type": "C",
+    "description": "Measures critical thinking ability including analysis, evaluation, inference, and deductive reasoning. Assesses ability to evaluate arguments and identify logical fallacies. 30-minute time limit.",
+    "skills": [
+      "critical thinking",
+      "analysis",
+      "evaluation",
+      "inference",
+      "logical reasoning",
+      "decision making"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate"
+    ],
+    "duration": "30 minutes",
+    "categories": [
+      "cognitive",
+      "critical thinking"
+    ]
+  },
+  {
+    "name": "Graduate Cognitive Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-cognitive-assessment/",
+    "test_type": "C",
+    "description": "Cognitive assessment specifically designed for graduate recruitment. Measures numerical, verbal, and inductive reasoning with content relevant to graduate-level roles. 35-minute time limit.",
+    "skills": [
+      "graduate potential",
+      "cognitive ability",
+      "numerical reasoning",
+      "verbal reasoning",
+      "inductive reasoning",
+      "learning agility"
+    ],
+    "job_levels": [
+      "graduate",
+      "entry"
+    ],
+    "duration": "35 minutes",
+    "categories": [
+      "cognitive",
+      "graduate"
+    ]
+  },
+  {
+    "name": "High Potential Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/high-potential-assessment/",
+    "test_type": "C",
+    "description": "Comprehensive assessment for identifying high-potential employees. Combines cognitive ability, personality, and situational judgment to predict future leadership success. 60-minute time limit.",
+    "skills": [
+      "high potential",
+      "leadership potential",
+      "cognitive ability",
+      "personality",
+      "future performance",
+      "strategic thinking"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "60 minutes",
+    "categories": [
+      "cognitive",
+      "personality",
+      "high potential"
+    ]
+  },
+  {
+    "name": "Management Potential Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/management-potential-assessment/",
+    "test_type": "C",
+    "description": "Identifies management potential through cognitive and behavioral measures. Evaluates strategic thinking, people orientation, and decision-making capabilities for leadership roles. 45-minute time limit.",
+    "skills": [
+      "management potential",
+      "strategic thinking",
+      "people orientation",
+      "decision making",
+      "leadership"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "cognitive",
+      "behavioral",
+      "management"
+    ]
+  },
+  {
+    "name": "Technical Aptitude Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-aptitude-assessment/",
+    "test_type": "C",
+    "description": "Measures technical aptitude and ability to learn technical concepts. Assesses spatial reasoning, mechanical comprehension, and technical problem-solving. 25-minute time limit.",
+    "skills": [
+      "technical aptitude",
+      "spatial reasoning",
+      "mechanical comprehension",
+      "technical problem solving",
+      "engineering aptitude"
+    ],
+    "job_levels": [
+      "entry",
+      "mid"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "cognitive",
+      "technical"
+    ]
+  },
+  {
+    "name": "OPQ32 - Occupational Personality Questionnaire",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32-occupational-personality-questionnaire/",
+    "test_type": "P",
+    "description": "Assesses role fit and future performance using 32 personality dimensions. Measures workplace preferences, behavioral traits, and interpersonal style. 20 minutes to complete in 37 languages. Mobile-first design. Industry-leading personality assessment.",
+    "skills": [
+      "personality assessment",
+      "behavioral traits",
+      "workplace preferences",
+      "interpersonal skills",
+      "leadership potential",
+      "team fit",
+      "communication style",
+      "work style"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate",
+      "executive"
+    ],
+    "duration": "20 minutes",
+    "categories": [
+      "personality",
+      "behavioral"
+    ]
+  },
+  {
+    "name": "OPQ32r - Occupational Personality Questionnaire Revised",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/",
+    "test_type": "P",
+    "description": "Revised version of OPQ32 with forced-choice format. Assesses 32 personality dimensions using 104 questions with 3 statements each. Rank how well statements describe you. 20-minute time limit.",
+    "skills": [
+      "personality",
+      "workplace behavior",
+      "team fit",
+      "leadership style",
+      "communication style",
+      "self-awareness"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate",
+      "executive"
+    ],
+    "duration": "20 minutes",
+    "categories": [
+      "personality",
+      "behavioral"
+    ]
+  },
+  {
+    "name": "MQ - Motivation Questionnaire",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mq-motivation-questionnaire/",
+    "test_type": "P",
+    "description": "Assesses motivations by having candidates rate situations or conditions deciding how each would affect motivation to work. 25 minutes with 150 questions about work motivation factors including achievement, affiliation, and power.",
+    "skills": [
+      "motivation assessment",
+      "work engagement",
+      "drive",
+      "career alignment",
+      "intrinsic motivation",
+      "extrinsic motivation"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "personality",
+      "motivation"
+    ]
+  },
+  {
+    "name": "RemoteWorkQ",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/",
+    "test_type": "P",
+    "description": "Evaluates competency and openness to work remotely. 10-minute questionnaire about work habits, self-motivation, and ability to work independently in distributed teams. Assesses remote work readiness.",
+    "skills": [
+      "remote work",
+      "self-motivation",
+      "independence",
+      "time management",
+      "virtual collaboration",
+      "self-discipline"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "10 minutes",
+    "categories": [
+      "personality",
+      "remote work"
+    ]
+  },
+  {
+    "name": "Learning Agility Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/learning-agility-assessment/",
+    "test_type": "P",
+    "description": "Evaluates ability and willingness to learn new skills and adapt to new situations. Measures curiosity, flexibility, speed of learning, and application of new knowledge. 20-minute time limit.",
+    "skills": [
+      "learning agility",
+      "adaptability",
+      "curiosity",
+      "flexibility",
+      "growth mindset",
+      "continuous learning"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate"
+    ],
+    "duration": "20 minutes",
+    "categories": [
+      "personality",
+      "development"
+    ]
+  },
+  {
+    "name": "Emotional Intelligence Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/emotional-intelligence-assessment/",
+    "test_type": "P",
+    "description": "Measures emotional intelligence including self-awareness, self-regulation, empathy, social skills, and motivation. Evaluates ability to understand and manage emotions in self and others. 25-minute time limit.",
+    "skills": [
+      "emotional intelligence",
+      "self-awareness",
+      "empathy",
+      "social skills",
+      "relationship management",
+      "self-regulation"
+    ],
+    "job_levels": [
+      "mid",
+      "senior",
+      "executive"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "personality",
+      "emotional intelligence"
+    ]
+  },
+  {
+    "name": "Innovation Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/innovation-assessment/",
+    "test_type": "P",
+    "description": "Evaluates creative thinking and innovation potential. Measures ideation, problem reframing, risk tolerance, and ability to generate novel solutions to complex problems. 25-minute time limit.",
+    "skills": [
+      "innovation",
+      "creativity",
+      "problem reframing",
+      "risk tolerance",
+      "ideation",
+      "creative thinking"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "personality",
+      "innovation"
+    ]
+  },
+  {
+    "name": "Resilience Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/resilience-assessment/",
+    "test_type": "P",
+    "description": "Measures resilience and ability to bounce back from setbacks. Evaluates stress management, optimism, perseverance, and adaptability in challenging situations. 20-minute time limit.",
+    "skills": [
+      "resilience",
+      "stress management",
+      "optimism",
+      "perseverance",
+      "adaptability",
+      "grit"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "20 minutes",
+    "categories": [
+      "personality",
+      "resilience"
+    ]
+  },
+  {
+    "name": "Integrity Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/integrity-assessment/",
+    "test_type": "P",
+    "description": "Evaluates integrity, honesty, and ethical behavior. Measures attitudes toward workplace ethics, rule-following, and moral decision-making in ambiguous situations. 20-minute time limit.",
+    "skills": [
+      "integrity",
+      "ethics",
+      "honesty",
+      "rule-following",
+      "moral judgment",
+      "trustworthiness"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "20 minutes",
+    "categories": [
+      "personality",
+      "integrity"
+    ]
+  },
+  {
+    "name": "Values Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/values-assessment/",
+    "test_type": "P",
+    "description": "Evaluates personal and professional values alignment. Measures core values, work ethic, organizational commitment, and cultural fit potential. 20-minute time limit.",
+    "skills": [
+      "values alignment",
+      "work ethic",
+      "cultural fit",
+      "organizational commitment",
+      "professional values"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate"
+    ],
+    "duration": "20 minutes",
+    "categories": [
+      "personality",
+      "values"
+    ]
+  },
+  {
+    "name": "Cultural Fit Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cultural-fit-assessment/",
+    "test_type": "P",
+    "description": "Evaluates alignment with organizational culture. Measures preferences for work environment, communication style, decision-making, and team dynamics. 20-minute time limit.",
+    "skills": [
+      "cultural fit",
+      "team dynamics",
+      "communication style",
+      "work environment preferences",
+      "organizational alignment"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "20 minutes",
+    "categories": [
+      "personality",
+      "cultural fit"
+    ]
+  },
+  {
+    "name": "Sales Potential Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-potential-assessment/",
+    "test_type": "P",
+    "description": "Identifies sales potential through personality and motivation measures. Evaluates drive, resilience, persuasiveness, and customer orientation for sales roles. 25-minute time limit.",
+    "skills": [
+      "sales potential",
+      "drive",
+      "resilience",
+      "persuasiveness",
+      "customer orientation",
+      "competitive spirit"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "personality",
+      "sales"
+    ]
+  },
+  {
+    "name": "Situational Judgement Test (SJT)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/situational-judgement-test/",
+    "test_type": "B",
+    "description": "Presents realistic workplace scenarios and asks candidates to select the most effective response. Evaluates decision-making, judgment, and handling of common leadership and workplace challenges. 30-minute time limit.",
+    "skills": [
+      "decision making",
+      "judgment",
+      "workplace behavior",
+      "leadership",
+      "problem solving",
+      "team management",
+      "professionalism"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate"
+    ],
+    "duration": "30 minutes",
+    "categories": [
+      "behavioral",
+      "situational judgment"
+    ]
+  },
+  {
+    "name": "Management Situational Judgement Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/management-situational-judgement-test/",
+    "test_type": "B",
+    "description": "Evaluates how effectively candidates handle common leadership and workplace challenges. Focuses on goal achievement, team management, and maintaining positive organizational reputation. 35-minute time limit.",
+    "skills": [
+      "management",
+      "leadership",
+      "decision making",
+      "team management",
+      "organizational awareness",
+      "goal achievement"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "35 minutes",
+    "categories": [
+      "behavioral",
+      "situational judgment",
+      "management"
+    ]
+  },
+  {
+    "name": "Leadership Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-assessment/",
+    "test_type": "B",
+    "description": "Comprehensive evaluation of leadership potential and capabilities. Assesses strategic thinking, people management, decision-making, and ability to drive organizational change. 45-minute time limit.",
+    "skills": [
+      "leadership",
+      "strategic thinking",
+      "people management",
+      "decision making",
+      "organizational change",
+      "vision"
+    ],
+    "job_levels": [
+      "mid",
+      "senior",
+      "executive"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "behavioral",
+      "leadership"
+    ]
+  },
+  {
+    "name": "Sales Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-assessment/",
+    "test_type": "B",
+    "description": "Evaluates sales potential and effectiveness. Measures persuasion, relationship building, resilience, negotiation skills, and ability to meet targets in competitive environments. 35-minute time limit.",
+    "skills": [
+      "sales",
+      "persuasion",
+      "negotiation",
+      "relationship building",
+      "resilience",
+      "target achievement",
+      "closing"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "35 minutes",
+    "categories": [
+      "behavioral",
+      "sales"
+    ]
+  },
+  {
+    "name": "Customer Service Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-assessment/",
+    "test_type": "B",
+    "description": "Evaluates customer service potential and effectiveness. Measures empathy, patience, problem resolution, communication skills, and ability to handle difficult customer situations. 30-minute time limit.",
+    "skills": [
+      "customer service",
+      "empathy",
+      "communication",
+      "problem resolution",
+      "patience",
+      "conflict resolution"
+    ],
+    "job_levels": [
+      "entry",
+      "mid"
+    ],
+    "duration": "30 minutes",
+    "categories": [
+      "behavioral",
+      "customer service"
+    ]
+  },
+  {
+    "name": "Teamwork Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/teamwork-assessment/",
+    "test_type": "B",
+    "description": "Evaluates ability to work effectively in team settings. Measures collaboration, conflict resolution, communication, flexibility, and contribution to group goals. 25-minute time limit.",
+    "skills": [
+      "teamwork",
+      "collaboration",
+      "conflict resolution",
+      "communication",
+      "flexibility",
+      "cooperation"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "behavioral",
+      "teamwork"
+    ]
+  },
+  {
+    "name": "Safety Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/safety-assessment/",
+    "test_type": "B",
+    "description": "Evaluates safety awareness and behavior in workplace settings. Measures knowledge of safety protocols, risk perception, and commitment to safe work practices. 25-minute time limit.",
+    "skills": [
+      "safety awareness",
+      "risk perception",
+      "protocol adherence",
+      "workplace safety",
+      "compliance"
+    ],
+    "job_levels": [
+      "entry",
+      "mid"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "behavioral",
+      "safety"
+    ]
+  },
+  {
+    "name": "Driver Safety Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/driver-safety-assessment/",
+    "test_type": "B",
+    "description": "Evaluates driving safety attitudes and behaviors. Measures risk awareness, rule compliance, defensive driving mindset, and reaction to road hazards. 20-minute time limit.",
+    "skills": [
+      "driving safety",
+      "risk awareness",
+      "defensive driving",
+      "rule compliance",
+      "road safety"
+    ],
+    "job_levels": [
+      "entry",
+      "mid"
+    ],
+    "duration": "20 minutes",
+    "categories": [
+      "behavioral",
+      "safety",
+      "driving"
+    ]
+  },
+  {
+    "name": "Java (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-new/",
+    "test_type": "K",
+    "description": "Evaluates Java programming skills including object-oriented concepts, data structures, algorithms, and practical coding ability. Measures proficiency in Java 8+ features and libraries. 45-minute time limit.",
+    "skills": [
+      "java",
+      "programming",
+      "object-oriented design",
+      "data structures",
+      "algorithms",
+      "software development",
+      "spring"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "coding"
+    ]
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "test_type": "K",
+    "description": "Evaluates Python programming skills including syntax, data structures, libraries, and practical coding ability. Measures proficiency in Python 3.x features and common frameworks. 45-minute time limit.",
+    "skills": [
+      "python",
+      "programming",
+      "data analysis",
+      "scripting",
+      "software development",
+      "automation",
+      "pandas",
+      "numpy"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "coding"
+    ]
+  },
+  {
+    "name": "C# (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/csharp-new/",
+    "test_type": "K",
+    "description": "Evaluates C# programming skills including .NET framework, object-oriented concepts, and practical coding ability. Measures proficiency in modern C# features and ASP.NET development. 45-minute time limit.",
+    "skills": [
+      "c#",
+      "programming",
+      ".net",
+      "object-oriented design",
+      "web development",
+      "software development",
+      "asp.net"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "coding"
+    ]
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "test_type": "K",
+    "description": "Evaluates SQL programming skills including query writing, database design, optimization, and practical database management ability. Measures proficiency in relational database concepts. 40-minute time limit.",
+    "skills": [
+      "sql",
+      "database",
+      "query optimization",
+      "data management",
+      "relational databases",
+      "mysql",
+      "postgresql"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "40 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "database"
+    ]
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "test_type": "K",
+    "description": "Evaluates JavaScript programming skills including DOM manipulation, async programming, ES6+ features, and practical frontend development ability. 45-minute time limit.",
+    "skills": [
+      "javascript",
+      "frontend",
+      "web development",
+      "programming",
+      "react",
+      "node.js",
+      "es6",
+      "dom manipulation"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "coding"
+    ]
+  },
+  {
+    "name": "Business Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-skills-assessment/",
+    "test_type": "K",
+    "description": "Assesses essential business and computer literacy skills, mostly involving Microsoft Office programs. Evaluates proficiency in Word, Excel, PowerPoint, and general business applications. 30-minute time limit.",
+    "skills": [
+      "microsoft office",
+      "excel",
+      "word",
+      "powerpoint",
+      "business literacy",
+      "computer skills",
+      "productivity"
+    ],
+    "job_levels": [
+      "entry",
+      "mid"
+    ],
+    "duration": "30 minutes",
+    "categories": [
+      "skills",
+      "business"
+    ]
+  },
+  {
+    "name": "Language Evaluation - English",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/language-evaluation-english/",
+    "test_type": "K",
+    "description": "AI-powered proficiency test assessing verbal and written English language skills. Evaluates grammar, vocabulary, comprehension, and communication effectiveness. 25-minute time limit.",
+    "skills": [
+      "english",
+      "communication",
+      "writing",
+      "verbal communication",
+      "language proficiency",
+      "business english"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "skills",
+      "language"
+    ]
+  },
+  {
+    "name": "Language Evaluation - Spanish",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/language-evaluation-spanish/",
+    "test_type": "K",
+    "description": "AI-powered Spanish language proficiency test. Assesses grammar, vocabulary, comprehension, and communication effectiveness in Spanish. 25-minute time limit.",
+    "skills": [
+      "spanish",
+      "communication",
+      "language proficiency",
+      "bilingual",
+      "business spanish"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "skills",
+      "language"
+    ]
+  },
+  {
+    "name": "Language Evaluation - French",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/language-evaluation-french/",
+    "test_type": "K",
+    "description": "AI-powered French language proficiency test. Assesses grammar, vocabulary, comprehension, and communication effectiveness in French. 25-minute time limit.",
+    "skills": [
+      "french",
+      "communication",
+      "language proficiency",
+      "bilingual",
+      "business french"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "skills",
+      "language"
+    ]
+  },
+  {
+    "name": "Language Evaluation - German",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/language-evaluation-german/",
+    "test_type": "K",
+    "description": "AI-powered German language proficiency test. Assesses grammar, vocabulary, comprehension, and communication effectiveness in German. 25-minute time limit.",
+    "skills": [
+      "german",
+      "communication",
+      "language proficiency",
+      "bilingual",
+      "business german"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "skills",
+      "language"
+    ]
+  },
+  {
+    "name": "Data Analysis Skills Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-analysis-skills-test/",
+    "test_type": "K",
+    "description": "Evaluates data analysis skills including statistical concepts, data visualization, interpretation of datasets, and ability to draw insights from complex data. 40-minute time limit.",
+    "skills": [
+      "data analysis",
+      "statistics",
+      "data visualization",
+      "excel",
+      "sql",
+      "python",
+      "r",
+      "tableau"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "40 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "data"
+    ]
+  },
+  {
+    "name": "Project Management Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/project-management-assessment/",
+    "test_type": "K",
+    "description": "Evaluates project management knowledge and skills. Covers planning, risk management, stakeholder communication, resource allocation, and Agile/Waterfall methodologies. 45-minute time limit.",
+    "skills": [
+      "project management",
+      "planning",
+      "risk management",
+      "stakeholder management",
+      "agile",
+      "scrum",
+      "waterfall"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "skills",
+      "management"
+    ]
+  },
+  {
+    "name": "Financial Analysis Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-analysis-assessment/",
+    "test_type": "K",
+    "description": "Evaluates financial analysis skills including financial statement analysis, ratio analysis, valuation, and investment decision-making. Covers accounting principles and financial modeling. 45-minute time limit.",
+    "skills": [
+      "financial analysis",
+      "accounting",
+      "valuation",
+      "investment",
+      "excel",
+      "financial modeling",
+      "gaap"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "skills",
+      "finance"
+    ]
+  },
+  {
+    "name": "HR Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hr-skills-assessment/",
+    "test_type": "K",
+    "description": "Evaluates human resources knowledge and skills. Covers recruitment, employee relations, compensation, labor laws, performance management, and HR strategy. 40-minute time limit.",
+    "skills": [
+      "human resources",
+      "recruitment",
+      "employee relations",
+      "compensation",
+      "performance management",
+      "labor law"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "40 minutes",
+    "categories": [
+      "skills",
+      "hr"
+    ]
+  },
+  {
+    "name": "Accounting Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounting-skills-assessment/",
+    "test_type": "K",
+    "description": "Evaluates accounting knowledge and skills. Covers financial accounting, managerial accounting, tax principles, auditing, and financial reporting standards. 40-minute time limit.",
+    "skills": [
+      "accounting",
+      "financial accounting",
+      "managerial accounting",
+      "tax",
+      "auditing",
+      "gaap",
+      "ifrs"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "40 minutes",
+    "categories": [
+      "skills",
+      "accounting"
+    ]
+  },
+  {
+    "name": "Marketing Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-skills-assessment/",
+    "test_type": "K",
+    "description": "Evaluates marketing knowledge and skills. Covers digital marketing, brand management, market research, campaign planning, and marketing analytics. 40-minute time limit.",
+    "skills": [
+      "marketing",
+      "digital marketing",
+      "brand management",
+      "market research",
+      "analytics",
+      "seo",
+      "social media"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "40 minutes",
+    "categories": [
+      "skills",
+      "marketing"
+    ]
+  },
+  {
+    "name": "Supply Chain Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/supply-chain-assessment/",
+    "test_type": "K",
+    "description": "Evaluates supply chain management knowledge. Covers logistics, procurement, inventory management, demand planning, and supplier relationship management. 40-minute time limit.",
+    "skills": [
+      "supply chain",
+      "logistics",
+      "procurement",
+      "inventory",
+      "demand planning",
+      "supplier management"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "40 minutes",
+    "categories": [
+      "skills",
+      "supply chain"
+    ]
+  },
+  {
+    "name": "Risk Management Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/risk-management-assessment/",
+    "test_type": "K",
+    "description": "Evaluates risk management knowledge and skills. Covers risk identification, assessment, mitigation strategies, compliance, and enterprise risk management frameworks. 45-minute time limit.",
+    "skills": [
+      "risk management",
+      "compliance",
+      "risk assessment",
+      "mitigation",
+      "enterprise risk",
+      "internal controls"
+    ],
+    "job_levels": [
+      "mid",
+      "senior",
+      "executive"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "skills",
+      "risk management"
+    ]
+  },
+  {
+    "name": "Compliance Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/compliance-assessment/",
+    "test_type": "K",
+    "description": "Evaluates compliance knowledge and regulatory understanding. Covers legal requirements, ethical standards, internal controls, and regulatory frameworks across industries. 40-minute time limit.",
+    "skills": [
+      "compliance",
+      "regulatory",
+      "legal",
+      "ethics",
+      "internal controls",
+      "governance"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "40 minutes",
+    "categories": [
+      "skills",
+      "compliance"
+    ]
+  },
+  {
+    "name": "Cybersecurity Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cybersecurity-skills-assessment/",
+    "test_type": "K",
+    "description": "Evaluates cybersecurity knowledge and skills. Covers network security, threat detection, incident response, security frameworks, and ethical hacking concepts. 45-minute time limit.",
+    "skills": [
+      "cybersecurity",
+      "network security",
+      "threat detection",
+      "incident response",
+      "security frameworks",
+      "penetration testing"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "security"
+    ]
+  },
+  {
+    "name": "Cloud Computing Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-assessment/",
+    "test_type": "K",
+    "description": "Evaluates cloud computing knowledge and skills. Covers AWS, Azure, GCP, cloud architecture, serverless computing, containerization, and cloud security. 45-minute time limit.",
+    "skills": [
+      "cloud computing",
+      "aws",
+      "azure",
+      "gcp",
+      "serverless",
+      "docker",
+      "kubernetes",
+      "cloud architecture"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "cloud"
+    ]
+  },
+  {
+    "name": "Data Engineering Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-engineering-assessment/",
+    "test_type": "K",
+    "description": "Evaluates data engineering skills including ETL pipelines, data warehousing, big data technologies, SQL, Python, and cloud data platforms. 50-minute time limit.",
+    "skills": [
+      "data engineering",
+      "etl",
+      "data warehousing",
+      "spark",
+      "hadoop",
+      "python",
+      "sql",
+      "airflow"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "50 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "data engineering"
+    ]
+  },
+  {
+    "name": "Machine Learning Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/machine-learning-assessment/",
+    "test_type": "K",
+    "description": "Evaluates machine learning knowledge and skills. Covers supervised/unsupervised learning, model evaluation, feature engineering, deep learning, and ML frameworks. 50-minute time limit.",
+    "skills": [
+      "machine learning",
+      "deep learning",
+      "tensorflow",
+      "pytorch",
+      "scikit-learn",
+      "data science",
+      "model evaluation"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "50 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "machine learning"
+    ]
+  },
+  {
+    "name": "Agile Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-assessment/",
+    "test_type": "K",
+    "description": "Evaluates Agile methodology knowledge and skills. Covers Scrum, Kanban, sprint planning, user stories, retrospectives, and Agile transformation. 35-minute time limit.",
+    "skills": [
+      "agile",
+      "scrum",
+      "kanban",
+      "sprint planning",
+      "user stories",
+      "project management",
+      "agile transformation"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "35 minutes",
+    "categories": [
+      "skills",
+      "agile"
+    ]
+  },
+  {
+    "name": "Negotiation Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/negotiation-skills-assessment/",
+    "test_type": "K",
+    "description": "Evaluates negotiation skills and strategies. Covers preparation, tactics, conflict resolution, deal-making, and relationship management in business contexts. 35-minute time limit.",
+    "skills": [
+      "negotiation",
+      "deal making",
+      "conflict resolution",
+      "relationship management",
+      "persuasion",
+      "tactics"
+    ],
+    "job_levels": [
+      "mid",
+      "senior",
+      "executive"
+    ],
+    "duration": "35 minutes",
+    "categories": [
+      "skills",
+      "negotiation"
+    ]
+  },
+  {
+    "name": "Presentation Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/presentation-skills-assessment/",
+    "test_type": "K",
+    "description": "Evaluates presentation and public speaking skills. Covers content structure, delivery, visual design, audience engagement, and persuasive communication. 30-minute time limit.",
+    "skills": [
+      "presentation",
+      "public speaking",
+      "communication",
+      "visual design",
+      "persuasion",
+      "storytelling"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "30 minutes",
+    "categories": [
+      "skills",
+      "communication"
+    ]
+  },
+  {
+    "name": "Writing Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writing-skills-assessment/",
+    "test_type": "K",
+    "description": "Evaluates business writing skills. Covers clarity, grammar, tone, structure, email etiquette, report writing, and persuasive writing. 30-minute time limit.",
+    "skills": [
+      "writing",
+      "business writing",
+      "grammar",
+      "communication",
+      "report writing",
+      "email etiquette"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "30 minutes",
+    "categories": [
+      "skills",
+      "writing"
+    ]
+  },
+  {
+    "name": "Microsoft Excel Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-assessment/",
+    "test_type": "K",
+    "description": "Evaluates Microsoft Excel proficiency. Covers formulas, functions, pivot tables, data analysis, macros, and advanced spreadsheet operations. 30-minute time limit.",
+    "skills": [
+      "excel",
+      "spreadsheets",
+      "data analysis",
+      "formulas",
+      "pivot tables",
+      "macros",
+      "vba"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "30 minutes",
+    "categories": [
+      "skills",
+      "microsoft office"
+    ]
+  },
+  {
+    "name": "Microsoft Word Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-assessment/",
+    "test_type": "K",
+    "description": "Evaluates Microsoft Word proficiency. Covers formatting, styles, mail merge, tables, document structure, and advanced word processing features. 25-minute time limit.",
+    "skills": [
+      "word",
+      "document formatting",
+      "mail merge",
+      "styles",
+      "word processing",
+      "technical writing"
+    ],
+    "job_levels": [
+      "entry",
+      "mid"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "skills",
+      "microsoft office"
+    ]
+  },
+  {
+    "name": "Microsoft PowerPoint Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-powerpoint-assessment/",
+    "test_type": "K",
+    "description": "Evaluates Microsoft PowerPoint proficiency. Covers slide design, animations, transitions, presentation structure, and visual communication. 25-minute time limit.",
+    "skills": [
+      "powerpoint",
+      "presentation design",
+      "slide design",
+      "visual communication",
+      "animations",
+      "storytelling"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "25 minutes",
+    "categories": [
+      "skills",
+      "microsoft office"
+    ]
+  },
+  {
+    "name": "R Programming Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/r-programming-assessment/",
+    "test_type": "K",
+    "description": "Evaluates R programming skills including data manipulation, statistical analysis, visualization with ggplot2, and R package development. 45-minute time limit.",
+    "skills": [
+      "r programming",
+      "statistics",
+      "data visualization",
+      "data analysis",
+      "statistical modeling",
+      "ggplot2"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "data science"
+    ]
+  },
+  {
+    "name": "SAS Programming Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sas-programming-assessment/",
+    "test_type": "K",
+    "description": "Evaluates SAS programming skills including data step, proc step, macro programming, statistical procedures, and report generation. 45-minute time limit.",
+    "skills": [
+      "sas",
+      "statistical programming",
+      "data analysis",
+      "report generation",
+      "macro programming",
+      "clinical trials"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "statistics"
+    ]
+  },
+  {
+    "name": "Tableau Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/tableau-assessment/",
+    "test_type": "K",
+    "description": "Evaluates Tableau data visualization skills. Covers dashboard creation, calculated fields, data blending, filters, and interactive visualizations. 40-minute time limit.",
+    "skills": [
+      "tableau",
+      "data visualization",
+      "dashboards",
+      "business intelligence",
+      "analytics",
+      "data storytelling"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "40 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "visualization"
+    ]
+  },
+  {
+    "name": "Power BI Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/power-bi-assessment/",
+    "test_type": "K",
+    "description": "Evaluates Power BI skills including data modeling, DAX, report creation, dashboard design, and data transformation with Power Query. 40-minute time limit.",
+    "skills": [
+      "power bi",
+      "dax",
+      "data modeling",
+      "dashboards",
+      "business intelligence",
+      "power query",
+      "reporting"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "40 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "visualization"
+    ]
+  },
+  {
+    "name": "SAP Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-assessment/",
+    "test_type": "K",
+    "description": "Evaluates SAP knowledge and skills. Covers SAP modules, ABAP programming, FICO, MM, SD, HANA, and enterprise resource planning concepts. 45-minute time limit.",
+    "skills": [
+      "sap",
+      "abap",
+      "erp",
+      "fico",
+      "mm",
+      "sd",
+      "hana",
+      "sap modules"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "erp"
+    ]
+  },
+  {
+    "name": "Salesforce Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/salesforce-assessment/",
+    "test_type": "K",
+    "description": "Evaluates Salesforce knowledge and skills. Covers CRM concepts, Apex, Visualforce, Lightning, administration, and Salesforce architecture. 45-minute time limit.",
+    "skills": [
+      "salesforce",
+      "crm",
+      "apex",
+      "lightning",
+      "administration",
+      "cloud",
+      "sales cloud",
+      "service cloud"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "skills",
+      "technical",
+      "crm"
+    ]
+  },
+  {
+    "name": "Clerical Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/clerical-skills-assessment/",
+    "test_type": "K",
+    "description": "Evaluates clerical and administrative skills. Covers data entry, filing, typing, scheduling, office software, and organizational abilities. 30-minute time limit.",
+    "skills": [
+      "clerical",
+      "data entry",
+      "typing",
+      "scheduling",
+      "office software",
+      "organization",
+      "administrative"
+    ],
+    "job_levels": [
+      "entry",
+      "mid"
+    ],
+    "duration": "30 minutes",
+    "categories": [
+      "skills",
+      "administrative"
+    ]
+  },
+  {
+    "name": "Typing Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/typing-skills-assessment/",
+    "test_type": "K",
+    "description": "Measures typing speed and accuracy. Evaluates words per minute, error rate, and typing proficiency for administrative and data entry roles. 5-minute time limit.",
+    "skills": [
+      "typing",
+      "data entry",
+      "speed",
+      "accuracy",
+      "keyboard proficiency",
+      "wpm"
+    ],
+    "job_levels": [
+      "entry",
+      "mid"
+    ],
+    "duration": "5 minutes",
+    "categories": [
+      "skills",
+      "typing"
+    ]
+  },
+  {
+    "name": "Data Entry Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-skills-assessment/",
+    "test_type": "K",
+    "description": "Evaluates data entry speed and accuracy. Measures ability to input data quickly with minimal errors, attention to detail, and consistency. 10-minute time limit.",
+    "skills": [
+      "data entry",
+      "speed",
+      "accuracy",
+      "attention to detail",
+      "consistency",
+      "keyboard skills"
+    ],
+    "job_levels": [
+      "entry",
+      "mid"
+    ],
+    "duration": "10 minutes",
+    "categories": [
+      "skills",
+      "data entry"
+    ]
+  },
+  {
+    "name": "Coding Simulation - Software Developer",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/coding-simulation-software-developer/",
+    "test_type": "S",
+    "description": "Hands-on coding assessment using integrated development environment. Candidates solve real-life problems by running and testing their own source code. Measures programming ability, solution logic, time complexity, and best practices. 60-minute time limit.",
+    "skills": [
+      "coding",
+      "software development",
+      "problem solving",
+      "algorithm design",
+      "debugging",
+      "code quality"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "60 minutes",
+    "categories": [
+      "simulation",
+      "technical",
+      "coding"
+    ]
+  },
+  {
+    "name": "Coding Simulation - Data Science",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/coding-simulation-data-science/",
+    "test_type": "S",
+    "description": "Hands-on data science coding assessment. Evaluates Python/R skills for data manipulation, analysis, machine learning, and statistical modeling in realistic scenarios. 60-minute time limit.",
+    "skills": [
+      "data science",
+      "python",
+      "r",
+      "machine learning",
+      "statistics",
+      "data analysis",
+      "jupyter"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "60 minutes",
+    "categories": [
+      "simulation",
+      "technical",
+      "data science"
+    ]
+  },
+  {
+    "name": "Coding Simulation - DevOps",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/coding-simulation-devops/",
+    "test_type": "S",
+    "description": "Hands-on assessment for DevOps roles. Evaluates infrastructure as code, CI/CD pipelines, containerization, cloud platforms, and automation scripting skills. 60-minute time limit.",
+    "skills": [
+      "devops",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "aws",
+      "terraform",
+      "automation",
+      "jenkins"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "60 minutes",
+    "categories": [
+      "simulation",
+      "technical",
+      "devops"
+    ]
+  },
+  {
+    "name": "Coding Simulation - Full Stack",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/coding-simulation-full-stack/",
+    "test_type": "S",
+    "description": "Comprehensive full-stack development assessment. Evaluates frontend (React/Vue/Angular), backend (Node/Python/Java), database design, and API development skills. 75-minute time limit.",
+    "skills": [
+      "full stack",
+      "react",
+      "node.js",
+      "database",
+      "api design",
+      "frontend",
+      "backend",
+      "rest api"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "75 minutes",
+    "categories": [
+      "simulation",
+      "technical",
+      "full stack"
+    ]
+  },
+  {
+    "name": "Coding Simulation - Frontend",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/coding-simulation-frontend/",
+    "test_type": "S",
+    "description": "Frontend development assessment evaluating HTML, CSS, JavaScript, React/Vue/Angular, responsive design, and modern web development practices. 60-minute time limit.",
+    "skills": [
+      "frontend",
+      "react",
+      "javascript",
+      "css",
+      "html",
+      "responsive design",
+      "ui/ux"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "60 minutes",
+    "categories": [
+      "simulation",
+      "technical",
+      "frontend"
+    ]
+  },
+  {
+    "name": "Coding Simulation - Backend",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/coding-simulation-backend/",
+    "test_type": "S",
+    "description": "Backend development assessment evaluating API design, database management, server-side programming, microservices, and system architecture skills. 60-minute time limit.",
+    "skills": [
+      "backend",
+      "api design",
+      "database",
+      "microservices",
+      "server-side",
+      "architecture",
+      "rest api"
+    ],
+    "job_levels": [
+      "mid",
+      "senior"
+    ],
+    "duration": "60 minutes",
+    "categories": [
+      "simulation",
+      "technical",
+      "backend"
+    ]
+  },
+  {
+    "name": "Coding Simulation - Quality Assurance",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/coding-simulation-quality-assurance/",
+    "test_type": "S",
+    "description": "QA engineering assessment evaluating test automation, manual testing, bug reporting, test case design, and quality assurance methodologies. 60-minute time limit.",
+    "skills": [
+      "quality assurance",
+      "test automation",
+      "selenium",
+      "manual testing",
+      "bug tracking",
+      "test cases"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior"
+    ],
+    "duration": "60 minutes",
+    "categories": [
+      "simulation",
+      "technical",
+      "qa"
+    ]
+  },
+  {
+    "name": "Coding Simulation - Software Architect",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/coding-simulation-software-architect/",
+    "test_type": "S",
+    "description": "Architecture assessment evaluating system design, scalability, security, technology selection, and architectural patterns for complex software systems. 90-minute time limit.",
+    "skills": [
+      "software architecture",
+      "system design",
+      "scalability",
+      "security",
+      "microservices",
+      "cloud architecture",
+      "design patterns"
+    ],
+    "job_levels": [
+      "senior",
+      "executive"
+    ],
+    "duration": "90 minutes",
+    "categories": [
+      "simulation",
+      "technical",
+      "architecture"
+    ]
+  },
+  {
+    "name": "Call Centre Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/call-centre-simulation/",
+    "test_type": "S",
+    "description": "Simulates real call centre environment to evaluate customer service skills. Measures communication, problem resolution, empathy, and handling of customer inquiries under pressure. 45-minute time limit.",
+    "skills": [
+      "customer service",
+      "communication",
+      "problem resolution",
+      "empathy",
+      "multitasking",
+      "stress management"
+    ],
+    "job_levels": [
+      "entry",
+      "mid"
+    ],
+    "duration": "45 minutes",
+    "categories": [
+      "simulation",
+      "customer service"
+    ]
+  },
+  {
+    "name": "Virtual Assessment Centre",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/virtual-assessment-centre/",
+    "test_type": "S",
+    "description": "Comprehensive virtual assessment center including group exercises, roleplay scenarios, presentations, and interviews. Evaluates multiple competencies in realistic work simulations. 240-minute time limit.",
+    "skills": [
+      "leadership",
+      "teamwork",
+      "communication",
+      "problem solving",
+      "presentation",
+      "roleplay",
+      "group dynamics"
+    ],
+    "job_levels": [
+      "mid",
+      "senior",
+      "executive"
+    ],
+    "duration": "240 minutes",
+    "categories": [
+      "simulation",
+      "assessment center"
+    ]
+  },
+  {
+    "name": "Smart Interview On Demand",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-on-demand/",
+    "test_type": "V",
+    "description": "AI-powered video interview platform. Candidates record responses to pre-determined competency and industry questions. AI analyzes verbal and non-verbal communication for hiring insights. 20-minute time limit.",
+    "skills": [
+      "communication",
+      "presentation",
+      "interpersonal skills",
+      "confidence",
+      "structured thinking",
+      "verbal fluency"
+    ],
+    "job_levels": [
+      "entry",
+      "mid",
+      "senior",
+      "graduate"
+    ],
+    "duration": "20 minutes",
+    "categories": [
+      "video interview",
+      "ai assessment"
+    ]
+  },
+  {
+    "name": "360 Feedback",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/360-feedback/",
+    "test_type": "D",
+    "description": "Multi-rater feedback tool gathering input from peers, managers, and direct reports. Provides comprehensive view of leadership effectiveness, behavioral competencies, and development areas. 30-minute time limit.",
+    "skills": [
+      "leadership",
+      "feedback",
+      "self-awareness",
+      "development planning",
+      "team effectiveness",
+      "emotional intelligence"
+    ],
+    "job_levels": [
+      "mid",
+      "senior",
+      "executive"
+    ],
+    "duration": "30 minutes",
+    "categories": [
+      "development",
+      "feedback"
+    ]
+  }
+]
